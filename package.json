@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "npm": "^10.2.5"
+  },
+  "name": "node-app",
+  "description": "Running locally a PHP program from the browser with Node.js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-app",
+    "php"
+  ],
+  "author": "TinNguyen",
+  "license": "ISC"
+}
